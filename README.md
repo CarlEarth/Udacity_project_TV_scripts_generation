@@ -2,14 +2,13 @@
 
 This is the assignment in Udacity Deep Learning Course.  
 The following is what we can learn from this project:  
-
-Batch the text data before training.  
-Build the RNN(LSTM) model.  
-Choose the proper hyperparameter for the model.  
+1.Batch the text data before training.  
+2.Build the RNN(LSTM) model.  
+3.Choose the proper hyperparameter for the model.  
 
 Program Instruction:  
-Open the notebook with the jupyter notebook.  
-Follow the instrcutions step by step.  
+1.Open the notebook with the jupyter notebook.  
+2.Follow the instrcutions step by step.  
 
 The training result:
 
