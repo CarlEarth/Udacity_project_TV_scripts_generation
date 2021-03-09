@@ -5,6 +5,7 @@ The following is what we can learn from this project:
 1.Batch the text data before training.  
 2.Build the RNN(LSTM) model.  
 3.Choose the proper hyperparameter for the model.  
+4.Training the model on the AWS sagemaker. (in AWS version notebook)
 
 Program Instruction:  
 1.Open the notebook with the jupyter notebook.  
